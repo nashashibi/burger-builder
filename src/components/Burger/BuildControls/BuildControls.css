@@ -1,4 +1,5 @@
 .BuildControls {
+  align-items: center;
   width: 100%;
   background-color: #cf8f2e;
   display: flex;
